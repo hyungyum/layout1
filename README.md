@@ -3,15 +3,14 @@
 
 ---
 
-## 단답형 Short Answer
+## 주관식 Open-Ended
 ```plaintext
 - Questions:
         <Question1>: 
         <Question2>:
         .....
         <QuestionN>:
-    - Answers:
-        Provide a brief answer in one or two words for each question. The answer should be concise and to the point.
+    - Answers:    
         <Answer1>:
         <Answer2>:
         .....
