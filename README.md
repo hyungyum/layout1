@@ -4,19 +4,20 @@
 ---
 
 ## 객관식 MCQ (Multiple-Choice Questions)
-- Questions: <br>
-    <Question1>: <br>
-        - Alternatives1: <option 1>, <option 2>, <option 3>, <option 4> <br>
-    <Question2>: <br>
-        - Alternatives2: <option 1>, <option 2>, <option 3>, <option 4> <br>
-    .... <br>
-    <QuestionN>: <br>
-        - AlternativesN: <option 1>, <option 2>, <option 3>, <option 4> <br>
-- Answers: <br>
-    <Answer1>: <option 1 | option 2 | option 3 | option 4> <br>
-    <Answer2>: <option 1 | option 2 | option 3 | option 4> <br>
-    .... <br>
-    <AnswerN>: <option 1 | option 2 | option 3 | option 4> <br>
+```plaintext
+- Questions:
+        <Question1>: 
+            - Alternatives1: <option 1>, <option 2>, <option 3>, <option 4>
+        <Question2>: 
+            - Alternatives2: <option 1>, <option 2>, <option 3>, <option 4>
+        ....
+        <QuestionN>: 
+            - AlternativesN: <option 1>, <option 2>, <option 3>, <option 4>
+    - Answers:
+        <Answer1>: <option 1 | option 2 | option 3 | option 4>
+        <Answer2>: <option 1 | option 2 | option 3 | option 4>
+        ....
+        <AnswerN>: <option 1 | option 2 | option 3 | option 4>
 
 
 
