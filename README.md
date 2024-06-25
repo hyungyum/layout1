@@ -3,19 +3,19 @@
 
 ---
 
-## 참 거짓 True/False
+## 단답형 Short Answer
 ```plaintext
 - Questions:
         <Question1>: 
-            - Alternatives1: <True>, <False>
-        <Question2>: 
-            - Alternatives2: <True>, <False>
+        <Question2>:
         .....
-        <QuestionN>: 
-            - AlternativesN: <True>, <False>
+        <QuestionN>:
     - Answers:
-        <Answer1>: <True|False>
-        <Answer2>: <True|False>
+        Provide a brief answer in one or two words for each question. The answer should be concise and to the point.
+        <Answer1>:
+        <Answer2>:
+        .....
+        <AnswerN>:
 
 
 
