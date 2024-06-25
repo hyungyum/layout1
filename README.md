@@ -3,21 +3,19 @@
 
 ---
 
-## 객관식 MCQ (Multiple-Choice Questions)
+## 참 거짓 True/False
 ```plaintext
 - Questions:
         <Question1>: 
-            - Alternatives1: <option 1>, <option 2>, <option 3>, <option 4>
+            - Alternatives1: <True>, <False>
         <Question2>: 
-            - Alternatives2: <option 1>, <option 2>, <option 3>, <option 4>
-        ....
+            - Alternatives2: <True>, <False>
+        .....
         <QuestionN>: 
-            - AlternativesN: <option 1>, <option 2>, <option 3>, <option 4>
+            - AlternativesN: <True>, <False>
     - Answers:
-        <Answer1>: <option 1 | option 2 | option 3 | option 4>
-        <Answer2>: <option 1 | option 2 | option 3 | option 4>
-        ....
-        <AnswerN>: <option 1 | option 2 | option 3 | option 4>
+        <Answer1>: <True|False>
+        <Answer2>: <True|False>
 
 
 
